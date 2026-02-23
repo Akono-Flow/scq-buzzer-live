@@ -6136,16 +6136,5 @@
     "Question": "Look at the monitor and identify this person.",
     "Answer": "Wayne Rooney (English Former Player and Manager)",
     "Section": "buzzer"
-  },
-  {
-    "Pkey": "559",
-    "Qkey": "1",
-    "Year": "2026",
-    "Round": "2",
-    "Match": "33",
-    "Subject": "General Knowledge",
-    "Question": "Who is the top quiz coach in Jamaica?",
-    "Answer": "Marvin Cole",
-    "Section": "buzzer"
-  }
+   }
 ]
