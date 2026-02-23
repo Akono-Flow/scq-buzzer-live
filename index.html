@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Buzzers — Question Bank</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ════════════════════ HEADER ════════════════════ -->
+  <header class="site-header">
+    <div class="header-left">
+      <div class="logo-mark">QB</div>
+      <div class="header-titles">
+        <h1 class="site-title">Quiz Buzzers</h1>
+        <p class="site-subtitle">Question Bank</p>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="stats-pill" id="recordCount">Loading…</div>
+      <button class="icon-btn" id="themeToggle" title="Toggle theme" aria-label="Toggle theme">
+        <span class="theme-icon">☀</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ════════════════════ TOOLBAR ════════════════════ -->
+  <div class="toolbar">
+    <div class="toolbar-left">
+      <!-- Mode tabs -->
+      <div class="mode-tabs" role="tablist">
+        <button class="mode-tab active" data-mode="table" role="tab" aria-selected="true">
+          <span class="tab-icon">⊞</span> Table
+        </button>
+        <button class="mode-tab" data-mode="flashcard" role="tab" aria-selected="false">
+          <span class="tab-icon">◈</span> Flashcards
+        </button>
+        <button class="mode-tab" data-mode="quiz" role="tab" aria-selected="false">
+          <span class="tab-icon">✦</span> Quiz
+        </button>
+        <button class="mode-tab" data-mode="stats" role="tab" aria-selected="false">
+          <span class="tab-icon">◉</span> Stats
+        </button>
+      </div>
+    </div>
+    <div class="toolbar-right">
+      <button class="action-btn" id="exportBtn" title="Export filtered data to CSV">
+        ↓ Export CSV
+      </button>
+      <button class="action-btn" id="colToggleBtn" title="Toggle column visibility">
+        ⊟ Columns
+      </button>
+    </div>
+  </div>
+
+  <!-- ════════════════════ FILTERS BAR ════════════════════ -->
+  <div class="filters-bar" id="filtersBar">
+    <div class="filter-group">
+      <label class="filter-label">Search</label>
+      <div class="search-wrap">
+        <input type="text" id="globalSearch" class="filter-input search-input" placeholder="Search all fields…" autocomplete="off" />
+        <span class="search-clear" id="searchClear" title="Clear">✕</span>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label class="filter-label">Year</label>
+      <select id="filterYear" class="filter-select"><option value="">All</option></select>
+    </div>
+    <div class="filter-group">
+      <label class="filter-label">Round</label>
+      <select id="filterRound" class="filter-select"><option value="">All</option></select>
+    </div>
+    <div class="filter-group">
+      <label class="filter-label">Match</label>
+      <select id="filterMatch" class="filter-select"><option value="">All</option></select>
+    </div>
+    <div class="filter-group">
+      <label class="filter-label">Subject</label>
+      <select id="filterSubject" class="filter-select"><option value="">All Subjects</option></select>
+    </div>
+    <div class="filter-group">
+      <label class="filter-label">Section</label>
+      <select id="filterSection" class="filter-select"><option value="">All</option></select>
+    </div>
+    <button class="clear-btn" id="clearFilters" title="Clear all filters">Clear All</button>
+  </div>
+
+  <!-- ════════════════════ COLUMN VISIBILITY PANEL ════════════════════ -->
+  <div class="col-panel" id="colPanel" hidden>
+    <p class="col-panel-title">Visible Columns</p>
+    <div class="col-checks" id="colChecks"></div>
+  </div>
+
+  <!-- ════════════════════ MAIN CONTENT ════════════════════ -->
+  <main class="main-content">
+
+    <!-- ── TABLE MODE ── -->
+    <section class="mode-section active" id="mode-table">
+      <div class="table-wrapper">
+        <table class="data-table" id="dataTable">
+          <thead>
+            <tr id="tableHead"></tr>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+        <div class="empty-state" id="emptyState" hidden>
+          <span class="empty-icon">◌</span>
+          <p>No questions match your filters.</p>
+          <button class="clear-btn" onclick="document.getElementById('clearFilters').click()">Clear Filters</button>
+        </div>
+      </div>
+      <!-- Pagination -->
+      <div class="pagination" id="pagination">
+        <div class="page-info" id="pageInfo"></div>
+        <div class="page-controls">
+          <label class="filter-label" style="align-self:center">Per page:</label>
+          <select id="pageSize" class="filter-select" style="width:80px">
+            <option value="25">25</option>
+            <option value="50" selected>50</option>
+            <option value="100">100</option>
+            <option value="9999">All</option>
+          </select>
+          <button class="page-btn" id="prevPage">← Prev</button>
+          <span class="page-nums" id="pageNums"></span>
+          <button class="page-btn" id="nextPage">Next →</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── FLASHCARD MODE ── -->
+    <section class="mode-section" id="mode-flashcard" hidden>
+      <div class="flashcard-container">
+        <div class="fc-header">
+          <span class="fc-counter" id="fcCounter">Card 1 of 0</span>
+          <div class="fc-controls">
+            <button class="action-btn" id="fcShuffle">⇌ Shuffle</button>
+            <button class="action-btn" id="fcReset">↺ Reset</button>
+          </div>
+        </div>
+        <div class="flashcard" id="flashcard" tabindex="0" role="button" aria-label="Flashcard, click to flip">
+          <div class="fc-inner" id="fcInner">
+            <div class="fc-front">
+              <div class="fc-label">Question</div>
+              <div class="fc-meta" id="fcMeta"></div>
+              <div class="fc-text" id="fcQuestion"></div>
+              <div class="fc-hint">Click to reveal answer</div>
+            </div>
+            <div class="fc-back">
+              <div class="fc-label">Answer</div>
+              <div class="fc-text" id="fcAnswer"></div>
+              <div class="fc-hint">Click to flip back</div>
+            </div>
+          </div>
+        </div>
+        <div class="fc-nav">
+          <button class="page-btn fc-nav-btn" id="fcPrev">← Previous</button>
+          <div class="fc-progress">
+            <div class="fc-progress-bar" id="fcProgressBar"></div>
+          </div>
+          <button class="page-btn fc-nav-btn" id="fcNext">Next →</button>
+        </div>
+        <div class="fc-footer" id="fcFooter"></div>
+      </div>
+    </section>
+
+    <!-- ── QUIZ MODE ── -->
+    <section class="mode-section" id="mode-quiz" hidden>
+      <div class="quiz-container">
+        <div class="quiz-header">
+          <div class="quiz-score-board">
+            <div class="score-item">
+              <span class="score-num" id="quizCorrect">0</span>
+              <span class="score-lbl">Correct</span>
+            </div>
+            <div class="score-item score-sep">/</div>
+            <div class="score-item">
+              <span class="score-num" id="quizTotal">0</span>
+              <span class="score-lbl">Attempted</span>
+            </div>
+            <div class="score-item score-pct" id="quizPct">—</div>
+          </div>
+          <div class="quiz-controls">
+            <button class="action-btn" id="quizShuffle">⇌ Shuffle</button>
+            <button class="action-btn" id="quizRestart">↺ Restart</button>
+          </div>
+        </div>
+        <div class="quiz-progress-bar-wrap">
+          <div class="quiz-progress-bar" id="quizProgressBar"></div>
+        </div>
+        <div class="quiz-card" id="quizCard">
+          <div class="quiz-q-meta" id="quizMeta"></div>
+          <div class="quiz-q-num" id="quizQNum"></div>
+          <div class="quiz-question" id="quizQuestion"></div>
+          <div class="quiz-input-area">
+            <input type="text" id="quizInput" class="quiz-input" placeholder="Type your answer…" autocomplete="off" />
+            <button class="quiz-submit-btn" id="quizSubmit">Submit</button>
+          </div>
+          <div class="quiz-reveal" id="quizReveal" hidden>
+            <div class="quiz-reveal-label">Correct Answer</div>
+            <div class="quiz-reveal-answer" id="quizRevealAnswer"></div>
+            <div class="quiz-feedback" id="quizFeedback"></div>
+            <button class="quiz-next-btn" id="quizNextQ">Next Question →</button>
+          </div>
+        </div>
+        <div class="quiz-finished" id="quizFinished" hidden>
+          <div class="finished-icon">✦</div>
+          <h2>Quiz Complete!</h2>
+          <div class="finished-score" id="finishedScore"></div>
+          <button class="action-btn" id="quizRestart2">↺ Try Again</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── STATS MODE ── -->
+    <section class="mode-section" id="mode-stats" hidden>
+      <div class="stats-container">
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-num" id="statTotal">—</div>
+            <div class="stat-lbl">Total Questions</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num" id="statSubjects">—</div>
+            <div class="stat-lbl">Subjects</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num" id="statRounds">—</div>
+            <div class="stat-lbl">Rounds</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num" id="statMatches">—</div>
+            <div class="stat-lbl">Matches</div>
+          </div>
+        </div>
+        <div class="charts-row">
+          <div class="chart-card">
+            <h3 class="chart-title">Questions by Subject</h3>
+            <div class="bar-chart" id="chartSubject"></div>
+          </div>
+          <div class="chart-card">
+            <h3 class="chart-title">Questions by Round</h3>
+            <div class="bar-chart" id="chartRound"></div>
+          </div>
+        </div>
+        <div class="charts-row">
+          <div class="chart-card chart-wide">
+            <h3 class="chart-title">Questions per Match (by Round)</h3>
+            <div class="bar-chart" id="chartMatch"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ════════════════════ LOADING OVERLAY ════════════════════ -->
+  <div class="loading-overlay" id="loadingOverlay">
+    <div class="loading-spinner"></div>
+    <p class="loading-text">Loading question bank…</p>
+  </div>
+
+  <!-- ════════════════════ TOAST ════════════════════ -->
+  <div class="toast" id="toast"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
