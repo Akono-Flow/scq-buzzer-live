@@ -51,7 +51,7 @@
     "Match": "1",
     "Subject": "Physics",
     "Question": "What is the main instrument used for detecting ionizing radiation?",
-    "Answer": "Geiger-M\u00fcller counter",
+    "Answer": "Geiger-Müller counter",
     "Section": "buzzer"
   },
   {
@@ -644,7 +644,7 @@
     "Round": "1",
     "Match": "4",
     "Subject": "French",
-    "Question": "What is the English translation for the French word imperm\u00e9able?",
+    "Question": "What is the English translation for the French word imperméable?",
     "Answer": "Raincoat",
     "Section": "buzzer"
   },
@@ -1205,7 +1205,7 @@
     "Round": "1",
     "Match": "7",
     "Subject": "French",
-    "Question": "Translate to English j'apprends le fran\u00e7ais.",
+    "Question": "Translate to English j'apprends le français.",
     "Answer": "I am learning French",
     "Section": "buzzer"
   },
@@ -1239,7 +1239,7 @@
     "Match": "7",
     "Subject": "Local and International Affairs",
     "Question": "Look at the following clip and identify this person.",
-    "Answer": "Bernardo Ar\u00e9valo (President of Guatemala)",
+    "Answer": "Bernardo Arévalo (President of Guatemala)",
     "Section": "buzzer"
   },
   {
@@ -1283,7 +1283,7 @@
     "Match": "7",
     "Subject": "Biology",
     "Question": "What is the name of the phenomenon where antibodies enhance phagocytosis?",
-    "Answer": "Opsonization ",
+    "Answer": "Opsonization",
     "Section": "buzzer"
   },
   {
@@ -1338,7 +1338,7 @@
     "Match": "7",
     "Subject": "Spanish",
     "Question": "Give the Spanish translation for Maria is tall but her brother is short.",
-    "Answer": "Mar\u00eda es alta pero su hermano es bajo.",
+    "Answer": "María es alta pero su hermano es bajo.",
     "Section": "buzzer"
   },
   {
@@ -1546,8 +1546,8 @@
     "Round": "1",
     "Match": "8",
     "Subject": "French",
-    "Question": "What is the first person plural form of the verb \u00eatre in the present subjunctive?",
-    "Answer": "que nous soyons. ",
+    "Question": "What is the first person plural form of the verb être in the present subjunctive?",
+    "Answer": "que nous soyons.",
     "Section": "buzzer"
   },
   {
@@ -1645,7 +1645,7 @@
     "Round": "1",
     "Match": "9",
     "Subject": "French",
-    "Question": "What is the English translation for Ils \u00e9taient d\u00e9j\u00e0 partis?",
+    "Question": "What is the English translation for Ils étaient déjà partis?",
     "Answer": "They had already left",
     "Section": "buzzer"
   },
@@ -1932,7 +1932,7 @@
     "Match": "10",
     "Subject": "Theatre and Cinema",
     "Question": "Look at the following clip and identify this actor.",
-    "Answer": "Jeremy Allen White ",
+    "Answer": "Jeremy Allen White",
     "Section": "buzzer"
   },
   {
@@ -1997,7 +1997,7 @@
     "Round": "1",
     "Match": "10",
     "Subject": "French",
-    "Question": "What is the English translation for Si j'avais su, je serais parti plus t\u00f4t?",
+    "Question": "What is the English translation for Si j'avais su, je serais parti plus tôt?",
     "Answer": "If I had known I would have left earlier",
     "Section": "buzzer"
   },
@@ -2129,7 +2129,7 @@
     "Round": "1",
     "Match": "12",
     "Subject": "Spanish",
-    "Question": "Translate to English por si acaso, trae tu identificaci\u00f3n.",
+    "Question": "Translate to English por si acaso, trae tu identificación.",
     "Answer": "Just in case, bring your ID",
     "Section": "buzzer"
   },
@@ -2152,7 +2152,7 @@
     "Match": "12",
     "Subject": "Geography",
     "Question": "What is the full name of the boundary between Earth's crust and mantle?",
-    "Answer": "Mohorovi\u010di\u0107 discontinuity",
+    "Answer": "Mohorovičić discontinuity",
     "Section": "buzzer"
   },
   {
@@ -2217,7 +2217,7 @@
     "Round": "1",
     "Match": "12",
     "Subject": "French",
-    "Question": "Translate to English Nous avons gagn\u00e9 le match.",
+    "Question": "Translate to English Nous avons gagné le match.",
     "Answer": "We won the match",
     "Section": "buzzer"
   },
@@ -2702,7 +2702,7 @@
     "Match": "15",
     "Subject": "General Knowledge",
     "Question": "What do we call the study of medals, paper money and coins?",
-    "Answer": "numismatics ",
+    "Answer": "numismatics",
     "Section": "buzzer"
   },
   {
@@ -2713,7 +2713,7 @@
     "Match": "15",
     "Subject": "Theatre and Cinema",
     "Question": "Look at the following clip and identify the actress.",
-    "Answer": "Pen\u00e9lope Cruz",
+    "Answer": "Penélope Cruz",
     "Section": "buzzer"
   },
   {
@@ -2723,7 +2723,7 @@
     "Round": "1",
     "Match": "15",
     "Subject": "Spanish",
-    "Question": "What is the English translation for te llamar\u00e1n cuando lleguen?",
+    "Question": "What is the English translation for te llamarán cuando lleguen?",
     "Answer": "They will call you when they arrive",
     "Section": "buzzer"
   },
@@ -2735,7 +2735,7 @@
     "Match": "15",
     "Subject": "Geography",
     "Question": "Saul of Tarsus is mentioned in the bible as a persecutor of christians. In which present day country is Tarsus located?",
-    "Answer": "T\u00fcrkiye formerly Turkey",
+    "Answer": "Türkiye formerly Turkey",
     "Section": "buzzer"
   },
   {
@@ -2823,7 +2823,7 @@
     "Match": "16",
     "Subject": "Local and International Affairs",
     "Question": "Look at the monitor and identify this person.",
-    "Answer": "Lu\u00eds Montenegro (PM of Portugal)",
+    "Answer": "Luís Montenegro (PM of Portugal)",
     "Section": "buzzer"
   },
   {
@@ -3218,7 +3218,7 @@
     "Round": "1",
     "Match": "18",
     "Subject": "History",
-    "Question": "What was the name of the severe global economic downturn which started in the United States in 1929? ",
+    "Question": "What was the name of the severe global economic downturn which started in the United States in 1929?",
     "Answer": "The Great Depression",
     "Section": "buzzer"
   },
@@ -3405,7 +3405,7 @@
     "Round": "1",
     "Match": "18",
     "Subject": "Spanish",
-    "Question": "What is the English translation for Si lo hubiera sabido no habr\u00eda ido?",
+    "Question": "What is the English translation for Si lo hubiera sabido no habría ido?",
     "Answer": "Had I known, I would not have gone.",
     "Section": "buzzer"
   },
@@ -3527,7 +3527,7 @@
     "Match": "19",
     "Subject": "General Knowledge",
     "Question": "What is the Earth's approximate angle of inclination in degrees?",
-    "Answer": "23.44\u00b0 (accept 23.5\u00b0)",
+    "Answer": "23.44° (accept 23.5°)",
     "Section": "buzzer"
   },
   {
@@ -3614,7 +3614,7 @@
     "Round": "1",
     "Match": "19",
     "Subject": "French",
-    "Question": "What is the English translation for the phrase \u00c0 bien y r\u00e9fl\u00e9chir?",
+    "Question": "What is the English translation for the phrase À bien y réfléchir?",
     "Answer": "On second thought (come to think of it)",
     "Section": "buzzer"
   },
@@ -4197,7 +4197,7 @@
     "Round": "1",
     "Match": "22",
     "Subject": "French",
-    "Question": "What is the English translation for nous sommes arriv\u00e9s sains et saufs?",
+    "Question": "What is the English translation for nous sommes arrivés sains et saufs?",
     "Answer": "We arrived safely",
     "Section": "buzzer"
   },
@@ -4582,7 +4582,7 @@
     "Round": "2",
     "Match": "24",
     "Subject": "French",
-    "Question": "What is the English translation for Je ne peux pas m'emp\u00eacher de rire?",
+    "Question": "What is the English translation for Je ne peux pas m'empêcher de rire?",
     "Answer": "I can't help but laugh",
     "Section": "buzzer"
   },
@@ -4604,7 +4604,7 @@
     "Round": "2",
     "Match": "25",
     "Subject": "Spanish",
-    "Question": "Translate to English Se me olvid\u00f3.",
+    "Question": "Translate to English Se me olvidó.",
     "Answer": "I forgot it (or I forgot)",
     "Section": "buzzer"
   },
@@ -4814,7 +4814,7 @@
     "Match": "26",
     "Subject": "French",
     "Question": "What is the French term for Pedestrian crossing or crosswalk?",
-    "Answer": "passage pi\u00e9tons",
+    "Answer": "passage piétons",
     "Section": "buzzer"
   },
   {
@@ -4847,7 +4847,7 @@
     "Match": "26",
     "Subject": "Local and International Affairs",
     "Question": "Look at the following clip and identify this person.",
-    "Answer": "Miguel D\u00edaz-Canel (President of Cuba)",
+    "Answer": "Miguel Díaz-Canel (President of Cuba)",
     "Section": "buzzer"
   },
   {
@@ -4968,7 +4968,7 @@
     "Match": "26",
     "Subject": "Sports",
     "Question": "Look at the monitor and identify this person.",
-    "Answer": "Bruno Guimar\u00e3es (Brazilian that captains New Castle United)",
+    "Answer": "Bruno Guimarães (Brazilian that captains New Castle United)",
     "Section": "buzzer"
   },
   {
@@ -5022,7 +5022,7 @@
     "Round": "2",
     "Match": "26",
     "Subject": "Physics",
-    "Question": "In Newton\u2019s Law of Universal Gravitation, what physical quantity is denoted by the symbol r?",
+    "Question": "In Newton’s Law of Universal Gravitation, what physical quantity is denoted by the symbol r?",
     "Answer": "The distance between the centres of the two masses",
     "Section": "buzzer"
   },
@@ -5231,7 +5231,7 @@
     "Round": "2",
     "Match": "27",
     "Subject": "French",
-    "Question": "Translate to English Elle a l'habitude de se r\u00e9veiller t\u00f4t.",
+    "Question": "Translate to English Elle a l'habitude de se réveiller tôt.",
     "Answer": "She is used to waking up early",
     "Section": "buzzer"
   },
@@ -5330,7 +5330,7 @@
     "Round": "2",
     "Match": "28",
     "Subject": "French",
-    "Question": "Translate into English je mange des bananes. ",
+    "Question": "Translate into English je mange des bananes.",
     "Answer": "I eat bananas",
     "Section": "buzzer"
   },
@@ -5627,7 +5627,7 @@
     "Round": "2",
     "Match": "29",
     "Subject": "Spanish",
-    "Question": "Translate to English El hurac\u00e1n Melissa destruy\u00f3 partes de Jamaica.",
+    "Question": "Translate to English El huracán Melissa destruyó partes de Jamaica.",
     "Answer": "Hurricane Melissa destroyed parts of Jamaica",
     "Section": "buzzer"
   },
@@ -5803,7 +5803,7 @@
     "Round": "2",
     "Match": "30",
     "Subject": "Principles of Business",
-    "Question": "What twelve-letter name starting with \u201cI\u201d is given to an employee who takes risks in order to innovate within a company?",
+    "Question": "What twelve-letter name starting with “I” is given to an employee who takes risks in order to innovate within a company?",
     "Answer": "Intrapreneur",
     "Section": "buzzer"
   },
@@ -6090,7 +6090,7 @@
     "Match": "32",
     "Subject": "Geography",
     "Question": "What specific type of cloud formation is associated with severe thunderstorms and tornado development?",
-    "Answer": "cumulonimbus ",
+    "Answer": "cumulonimbus",
     "Section": "buzzer"
   },
   {
@@ -6136,5 +6136,841 @@
     "Question": "Look at the monitor and identify this person.",
     "Answer": "Wayne Rooney (English Former Player and Manager)",
     "Section": "buzzer"
-   }
+  },
+  {
+    "Pkey": "559",
+    "Qkey": "1",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Literature",
+    "Question": "Who wrote the 1985 Coming of Age novel called \"Annie John\"?",
+    "Answer": "Jamaica Kincaid",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "560",
+    "Qkey": "2",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Art",
+    "Question": "Which Cuban painter, born in 1902, is a friend of Pablo Picasso, became famous for his Neo-African impressionist paintings?",
+    "Answer": "Wifredo Lam",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "561",
+    "Qkey": "3",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Principles of Business",
+    "Question": "Which of the words in the analysis acronym SWOT describes risks from competitors?",
+    "Answer": "Threats",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "562",
+    "Qkey": "4",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Local and International Affairs",
+    "Question": "Look at the following clip and identify this person.",
+    "Answer": "Rt Rev Garth Minott [Suffragan Bishop of Kingston and President of the Jamaica Council of Churches (JCC)]",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "563",
+    "Qkey": "5",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Bible Knowledge",
+    "Question": "In the book of 1 Corinthians, Paul describes love as greater than which two other virtues?",
+    "Answer": "Faith and Hope",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "564",
+    "Qkey": "6",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Music",
+    "Question": "Listen to the following clip and give the title of the song.",
+    "Answer": "Get Busy (Sean Paul)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "565",
+    "Qkey": "7",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Biology",
+    "Question": "A cross between two heterozygotes gives which phenotypic ratio?",
+    "Answer": "3 to 1",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "566",
+    "Qkey": "8",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "English Language",
+    "Question": "What is the name for the eight-letter rhetorical device starting with \"C\" that is used in this statement: Ask not what your country can do for you; ask what you can do for your country?",
+    "Answer": "Chiasmus",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "567",
+    "Qkey": "9",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Chemistry",
+    "Question": "What is the chemical formula for the alkane octane?",
+    "Answer": "C8H18",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "568",
+    "Qkey": "10",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Theatre and Cinema",
+    "Question": "Look at the following clip and identify this iconic actress.",
+    "Answer": "Marilyn Monroe (American Actress and model)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "569",
+    "Qkey": "11",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "General Knowledge",
+    "Question": "Which Caribbean island is home to the Pitons?",
+    "Answer": "Saint Lucia",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "570",
+    "Qkey": "12",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Spanish",
+    "Question": "Give the English translation for: Yo compré el pan.",
+    "Answer": "I bought bread",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "571",
+    "Qkey": "13",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Geography",
+    "Question": "Which two Jamaican parishes have land reaching above 2000 meters in elevation?",
+    "Answer": "Portland and St. Thomas",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "572",
+    "Qkey": "14",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Physics",
+    "Question": "A battery of EMF 9 Volts has an internal resistance of 1 Ohm and supplies a current of 2 Amps. What is the terminal Potential difference of the battery?",
+    "Answer": "7 Volts",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "573",
+    "Qkey": "15",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Sports",
+    "Question": "Look at the monitor and identify this person.",
+    "Answer": "Joseph Sepp Blatter (FIFA Former President [1998-2015])",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "574",
+    "Qkey": "16",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Theatre and Cinema",
+    "Question": "Which Jamaican actor played the role of Whitby Bevil Sr. in the 1993 movie Cool Runnings?",
+    "Answer": "Charles Hyatt",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "575",
+    "Qkey": "17",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "Information Technology",
+    "Question": "What is the four-letter acronym starting with \"R\" for a data storage technology combining multiple drives for better performance and/or data protection redundancy?",
+    "Answer": "RAID (Redundant Array of Independent Disks)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "576",
+    "Qkey": "18",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "33",
+    "Subject": "History",
+    "Question": "Which Portuguese explorer discovered the Sea Route to India in 1498?",
+    "Answer": "Vasco da Gama",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "577",
+    "Qkey": "1",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Art",
+    "Question": "Which Spanish painter created the 1655 \"Las Meninas\", known for its complexity of composition, alternating reality and illusion?",
+    "Answer": "Diego Velázquez",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "578",
+    "Qkey": "2",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Principles of Business",
+    "Question": "A business organization exists to make profit. Define profit",
+    "Answer": "Difference between Total Revenue and Total Expenses",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "579",
+    "Qkey": "3",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Chemistry",
+    "Question": "What is the oxidation number of Chromium in Cr2O7^2-?",
+    "Answer": "6",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "580",
+    "Qkey": "4",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Local and International Affairs",
+    "Question": "Look at the following clip and identify this person.",
+    "Answer": "Shehbaz Sharif (PM of Pakistan)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "581",
+    "Qkey": "5",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "General Knowledge",
+    "Question": "What is the eight-letter name starting with \"M\" for the strongest muscle in the human body, the jaw muscle?",
+    "Answer": "Masseter",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "582",
+    "Qkey": "6",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Music",
+    "Question": "Listen to the following clip and identify this singer.",
+    "Answer": "Skip Marley (No Love)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "583",
+    "Qkey": "7",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Spanish",
+    "Question": "Translate into English: Las chicas ganaron el premio.",
+    "Answer": "The girls won the prize or the award",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "584",
+    "Qkey": "8",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Geography",
+    "Question": "What is the name starting with \"U\" for the phenomenon that increases fish near cold currents?",
+    "Answer": "Upwelling",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "585",
+    "Qkey": "9",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Information Technology",
+    "Question": "What is the name for the SQL clause that is used to filter records?",
+    "Answer": "WHERE clause",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "586",
+    "Qkey": "10",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Theatre and Cinema",
+    "Question": "Look at the following clip and identify this actor.",
+    "Answer": "Jean Dujardin (French Actor and Comedian)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "587",
+    "Qkey": "11",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "History",
+    "Question": "What was the name of the last Emperor of China?",
+    "Answer": "Puyi",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "588",
+    "Qkey": "12",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Mathematics",
+    "Question": "If Sine X equals 3 over 5 and X is acute, what is Cos 2X?",
+    "Answer": "7 over 25",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "589",
+    "Qkey": "13",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Physics",
+    "Question": "What is the name for the smallest official SI prefix unit used in Nuclear Physics to measure the fleeting life times of certain sub-atomic particles and which is the equivalent of 10^-24 seconds?",
+    "Answer": "Yocto second",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "590",
+    "Qkey": "14",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Jamaican Heritage",
+    "Question": "How many times was former Jamaican Prime Minister Michael Manley married?",
+    "Answer": "5 times",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "591",
+    "Qkey": "15",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Sports",
+    "Question": "Look at the monitor and identify this person.",
+    "Answer": "Rafael Nadal (Spanish Former Tennis Player)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "592",
+    "Qkey": "16",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "French",
+    "Question": "Give the English translation for Nous n'avons plus de temps.",
+    "Answer": "We are out of time",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "593",
+    "Qkey": "17",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Literature",
+    "Question": "The novel \"The Count of Monte Cristo\" was written by French author Alexandre Dumas in collaboration with which other author?",
+    "Answer": "Auguste Maquet",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "594",
+    "Qkey": "18",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Bible Knowledge",
+    "Question": "What was the specific name of Abraham's burial place?",
+    "Answer": "Cave of Machpelah in the city of Hebron",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "595",
+    "Qkey": "19",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "Biology",
+    "Question": "Which base is found only in Ribonucleic acid, RNA?",
+    "Answer": "Uracil",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "596",
+    "Qkey": "20",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "34",
+    "Subject": "English Language",
+    "Question": "Does the word \"Castigate\" mean to praise, encourage, scold or care?",
+    "Answer": "Scold",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "597",
+    "Qkey": "1",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Jamaican Heritage",
+    "Question": "In Jamaican folklore, if you reach a crossroads before this mythical creature you are sure to escape it. What is this creature called?",
+    "Answer": "Rolling calf",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "598",
+    "Qkey": "2",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "French",
+    "Question": "What is the English translation for Il fait chaud aujourd'hui?",
+    "Answer": "It is hot today",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "599",
+    "Qkey": "3",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Literature",
+    "Question": "Which Caribbean poet wrote the collection entitled \"The Arrival of the Snake Woman and other stories\"?",
+    "Answer": "Olive Senior",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "600",
+    "Qkey": "4",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Local and International Affairs",
+    "Question": "Look at the following clip and identify this person.",
+    "Answer": "Vjosa Osmani-Sadriu (President of Kosovo)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "601",
+    "Qkey": "5",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Art",
+    "Question": "What is the name for the process or technique for laying on paint or pigment thickly so that it stands out from a surface?",
+    "Answer": "Impasto",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "602",
+    "Qkey": "6",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Music",
+    "Question": "Listen to the following clip and give the title of this song.",
+    "Answer": "Red Red Wine (UB40)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "603",
+    "Qkey": "7",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Principles of Business",
+    "Question": "What is the term starting with \"F\" for the type of unemployment which occurs when workers are between jobs?",
+    "Answer": "Frictional unemployment",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "604",
+    "Qkey": "8",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Local and International Affairs",
+    "Question": "In which European country are most of the frozen Russian assets held as a result of Russia's ongoing war with Ukraine?",
+    "Answer": "Belgium",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "605",
+    "Qkey": "9",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Bible Knowledge",
+    "Question": "Which Old Testament prophet foretold that a ruler in Israel would come out of Bethlehem Ephratah?",
+    "Answer": "Micah",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "606",
+    "Qkey": "10",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Theatre and Cinema",
+    "Question": "Look at the following clip and give the first and last names of this Jamaican actor.",
+    "Answer": "Christopher Daley (Co-host of Too live crew)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "607",
+    "Qkey": "11",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Biology",
+    "Question": "Which plant cell organelle stores pigments that give fruits and flowers their yellow, orange and red colour?",
+    "Answer": "Chromoplast",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "608",
+    "Qkey": "12",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "English Language",
+    "Question": "What eleven-letter word of French origin means formed by blending the sounds and meanings of two other words as in brunch?",
+    "Answer": "Portmanteau",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "609",
+    "Qkey": "13",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Information Technology",
+    "Question": "What specific device regenerates and strengthens signals in a network?",
+    "Answer": "Repeater",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "610",
+    "Qkey": "14",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "History",
+    "Question": "Which ancient wonder of the world stood in a Greek Island as a Giant Statue of the Sun god Helios?",
+    "Answer": "The Colossus of Rhodes",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "611",
+    "Qkey": "15",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Sports",
+    "Question": "Look at the monitor and identify this person.",
+    "Answer": "Julien Alfred",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "612",
+    "Qkey": "16",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Mathematics",
+    "Question": "If x is directly proportional to y and x equals 2 when y equals 5, find the value of x when y equals 6.",
+    "Answer": "12 over 5",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "613",
+    "Qkey": "17",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Physics",
+    "Question": "A 0.15 kiloWatt fan runs for 6 hours per day. How many kiloWatt hours does it use in one day?",
+    "Answer": "0.9 kWH",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "614",
+    "Qkey": "18",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Chemistry",
+    "Question": "What is the formula for Magnesium Silicate?",
+    "Answer": "MgSiO3",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "615",
+    "Qkey": "19",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "35",
+    "Subject": "Spanish",
+    "Question": "Translate into English La camisa todavía estaba mojada.",
+    "Answer": "The shirt was still wet",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "616",
+    "Qkey": "1",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Geography",
+    "Question": "What is the name for an irregular mass of unsorted rocky debris left behind by a glacier as it melts?",
+    "Answer": "Moraine",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "617",
+    "Qkey": "2",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Information Technology",
+    "Question": "What does the abbreviation GDPR stand for?",
+    "Answer": "General Data Protection Regulation",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "618",
+    "Qkey": "3",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "History",
+    "Question": "What was the first name of the King of the Zulu Kingdom from 1816 to 1828?",
+    "Answer": "Shaka",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "619",
+    "Qkey": "4",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Local and International Affairs",
+    "Question": "Look at the following clip and identify this person.",
+    "Answer": "Charles Washington Misick (Premier of the Turks and Caicos Islands)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "620",
+    "Qkey": "5",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Mathematics",
+    "Question": "A cone of radius 6cm and height 3cm is melted to form a sphere. What is the radius of the sphere?",
+    "Answer": "3cm",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "621",
+    "Qkey": "6",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Music",
+    "Question": "Listen to the following clip and identify the duo.",
+    "Answer": "Tanto Metro & Devonte (Everyone Falls in Love)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "622",
+    "Qkey": "7",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Physics",
+    "Question": "A current of 2 Amps flows for 3 minutes. How much charge is transferred?",
+    "Answer": "360 Coulombs",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "623",
+    "Qkey": "8",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Jamaican Heritage",
+    "Question": "Which Jamaican proverb means it is easier to rekindle the flames of love rather than start a new relationship with someone else?",
+    "Answer": "Ole fyah stik easy fi ketch",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "624",
+    "Qkey": "9",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "French",
+    "Question": "What is the English translation for Il faut que j’y aille tout de suite?",
+    "Answer": "I have to go right away or I need to go right away",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "625",
+    "Qkey": "10",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Local and International Affairs",
+    "Question": "Look at the following clip and give the first and last names of this local actress.",
+    "Answer": "Dorothy Cunningham (Miss Zella from Lime Tree Lane)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "626",
+    "Qkey": "11",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Literature",
+    "Question": "What is the two-word name for a contrast between what the audience knows and what a character knows?",
+    "Answer": "Dramatic irony",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "627",
+    "Qkey": "12",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Art",
+    "Question": "What is the name of the article which is used to support a canvas while it is being painted?",
+    "Answer": "Easel",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "628",
+    "Qkey": "13",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Spanish",
+    "Question": "What is the English translation for Dieron marcha atrás?",
+    "Answer": "They backed down; turned away or retreated",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "629",
+    "Qkey": "14",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Principles of Business",
+    "Question": "A manufacturing firm invested $48, 000 in fixed and working capital. At the end of the year the firm recorded a net profit after tax of $7200. What is the Return on Investment (ROI)?",
+    "Answer": "0.15",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "630",
+    "Qkey": "15",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Sports",
+    "Question": "Look at the monitor and identify this person.",
+    "Answer": "David Weller ( First Jamaican to win an Olympic medal in another sport than athletics)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "631",
+    "Qkey": "16",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Bible Knowledge",
+    "Question": "According to the book of Numbers, which man with a name starting with \"K\" was swallowed by the earth along with his household for criticising Moses?",
+    "Answer": "Korah",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "632",
+    "Qkey": "17",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Biology",
+    "Question": "What specific branch of biology focuses on the genetic, biochemical and taxonomic properties of fungi, including mushrooms and moulds?",
+    "Answer": "Mycology",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "633",
+    "Qkey": "18",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "English Language",
+    "Question": "What is the comparative form of the word old as used in family relations?",
+    "Answer": "Elder (older is also accepted)",
+    "Section": "buzzer"
+  },
+  {
+    "Pkey": "634",
+    "Qkey": "19",
+    "Year": "2026",
+    "Round": "2",
+    "Match": "36",
+    "Subject": "Chemistry",
+    "Question": "What is the approximate percentage by mass that the element Nitrogen has in Ammonium nitrate (NH4NO3): is it 25, 35, or 45 percent?",
+    "Answer": "0.35",
+    "Section": "buzzer"
+  }
 ]
